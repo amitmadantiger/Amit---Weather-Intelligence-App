@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Hyper-local weather forecasts and actionable planning recommendations powered by Open-Meteo.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
